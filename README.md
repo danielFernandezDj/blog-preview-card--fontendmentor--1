@@ -1,3 +1,7 @@
+#Sent to Open the file "index.html"
+<meta http-equiv="refresh" content="0;url=index.html">
+
+
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)

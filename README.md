@@ -1,5 +1,5 @@
 #Sent to Open the file "index.html"
-<meta http-equiv="refresh" content="0;url=index.html">
+<meta http-equiv="refresh" content="0; url=index.html">
 
 
 # Frontend Mentor - Blog preview card
